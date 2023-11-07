@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 feature de teste
+=======
+feature de teste teste
+>>>>>>> feature/feature2
